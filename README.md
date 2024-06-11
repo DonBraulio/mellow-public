@@ -1,12 +1,4 @@
-# Cómo borrar tu cuenta de Mellow (deleting your account)
-
-1. Ingresa con tu número de teléfono.
-1. Ve a la pestaña de tu perfil (debajo a la derecha).
-1. Haz click en la flecha junto a tu nombre de usuario y luego "Borrar mi usuario", luego confirma con el botón "Borrar".
-
-**NOTA:** Una vez borrada tu cuenta, todos tus datos serán eliminados de nuestros servidores y no podrán ser recuperados, incluyendo tu lista de favoritos y órdenes pasadas.
-
-# Política de Privacidad de Mellow
+# Política de Privacidad de Mellow ([English version](https://www.termsfeed.com/live/f61a90c1-7fea-4e41-9dad-f572d996a839))
 
 Última actualización: 04 de junio de 2024
 
